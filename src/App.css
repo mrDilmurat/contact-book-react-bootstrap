@@ -6,6 +6,15 @@
   height: 40vmin;
   pointer-events: none;
 }
+.btn-sty {
+  margin-left: 5px;
+}
+/* .btn-sty:first-child {
+    margin: 0px;
+} */
+.add-con {
+  float: right;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

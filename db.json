@@ -1,0 +1,19 @@
+{
+  "person": [
+    {
+      "id": 1,
+      "name": "John",
+      "lastName": "Snow",
+      "email": "john.com",
+      "phone": "0555888333"
+    },
+    {
+      "name": "Dilmurat",
+      "email": "mrdilmurat777@gmail.com",
+      "lastName": "Idrisov",
+      "phone": "+996558755756",
+      "active": true,
+      "id": 2
+    }
+  ]
+}
